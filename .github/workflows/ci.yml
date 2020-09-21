@@ -3,7 +3,7 @@ name: 主页
 on:
   push:
     branches:
-      - src
+      - master
 
 jobs:
   build:
@@ -15,4 +15,4 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BUILD_SCRIPT: npm i && npm run build
         BUILD_DIR: .vuepress/dist/
-        CNAME: viva-la-vita.org
+        CNAME: https://viva-la-vita.org
