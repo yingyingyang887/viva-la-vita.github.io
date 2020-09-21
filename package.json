@@ -1,0 +1,23 @@
+{
+  "name": "viva-la-vita.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viva-la-vita/viva-la-vita.github.io.git"
+  },
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build",
+    "serve": "vuepress serve"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/viva-la-vita/viva-la-vita.github.io/issues"
+  },
+  "homepage": "https://github.com/viva-la-vita/viva-la-vita.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^1.5.4"
+  }
+}
