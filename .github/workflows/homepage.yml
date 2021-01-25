@@ -1,4 +1,4 @@
-name: 主页
+name: Home Page
 
 on:
   push:
