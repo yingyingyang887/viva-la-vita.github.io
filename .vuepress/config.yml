@@ -3,5 +3,6 @@ description: Viva la Vita!
 themeConfig:
   nav:
     - { text: 文档, link: https://wiki.viva-la-vita.org }
-    # - { text: 论坛, link: https://bbs.viva-la-vita.org }
+    - { text: 论坛, link: https://bbs.viva-la-vita.org }
     - { text: 仓库, link: https://github.com/viva-la-vita/viva-la-vita.github.io }
+

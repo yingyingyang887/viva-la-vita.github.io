@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /icon.png
+heroImage: /favicon.ico
 heroText: 生如夏花
 tagline: 性开发经验交流与分享
 actionText: 阅读文档 →
